@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+      "baseUrl": "./",
+      "paths": {
+        "~lambda/*": ["lambda/*"],
+        "~services/*": ["services/*"],
+        "~routes/*": ["routes/*"],
+        "~infra/*": ["infra/*"],
+        "~libs/*": ["libs/*"]
+      }
+    }
+  }
+  
